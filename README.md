@@ -1,5 +1,7 @@
 # wrzap
 
+wrap zap logger
+
 对zap日志库的包装，通过导入包的方式使logger全局唯一
 
 - wrzap = wrap zap
